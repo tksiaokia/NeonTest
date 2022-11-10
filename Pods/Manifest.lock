@@ -1,0 +1,16 @@
+PODS:
+  - Digger (0.0.5)
+
+DEPENDENCIES:
+  - Digger
+
+SPEC REPOS:
+  trunk:
+    - Digger
+
+SPEC CHECKSUMS:
+  Digger: c474bde76a91e0a36f12101c5dfe7e86774b15d3
+
+PODFILE CHECKSUM: 83a6069f1bd2e9c2615ef6838fc785315769436e
+
+COCOAPODS: 1.11.3
